@@ -50,6 +50,10 @@ I'm a software developer with several years of experience in Java and Scala, lat
 [![Reactive Architecture: CQRS and Event Sourcing - Level 2](/badges/reactive-architecture-cqrs-and-event-sourcing-level-2.png)](https://www.credly.com/badges/bd9f8a0b-5311-4c7a-b374-ce11697468cc/public_url)
 [![Reactive Architecture: Distributed Messaging Patterns - Level 2](/badges/reactive-architecture-distributed-messaging-patterns-level-2.png)](https://www.credly.com/badges/d1b6511d-40a0-4478-8b5b-a9110d8dc9d3/public_url)
 
+### Data Engineering
+
+[![Lightbend Data Engineering: Data Principles - Level 2](/badges/lightbend-data-engineering-data-principles-level-2.png)](https://www.credly.com/badges/93b37c6c-95c4-4db4-a94a-1687263869ab/public_url)
+
 ---
 
 ## 📫 Contact
