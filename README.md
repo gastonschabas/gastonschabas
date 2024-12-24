@@ -9,6 +9,12 @@ practices and working in teams to create high-quality solutions that meet users'
 
 ---
 
+## 📫 Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gaston%20Schabas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-schabas/)](https://www.linkedin.com/in/gaston-schabas/)
+
+---
+
 ## 💻 Tech Stack
 
 [<code><img alt="Scala" width="26px" src="/icons/scala.ico"></code>](https://www.scala-lang.org/)
@@ -55,9 +61,3 @@ practices and working in teams to create high-quality solutions that meet users'
 ### Data Engineering
 
 [![Lightbend Data Engineering: Data Principles - Level 2](/badges/lightbend-data-engineering-data-principles-level-2.png)](https://www.credly.com/badges/93b37c6c-95c4-4db4-a94a-1687263869ab/public_url)
-
----
-
-## 📫 Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gaston%20Schabas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-schabas/)](https://www.linkedin.com/in/gaston-schabas/)
