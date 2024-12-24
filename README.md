@@ -4,27 +4,29 @@
 
 ## About Me
 
-I'm a software developer with several years of experience in Java and Scala, lately more focused on Scala. I'm passionate about applying good practices and working in teams to create high-quality solutions that meet users' needs.
+I'm a software developer with several years of experience in Java and Scala. I'm passionate about applying good 
+practices and working in teams to create high-quality solutions that meet users' needs.
 
 ---
 
 ## 💻 Tech Stack
 
-[<code><img alt="Scala" width="26px" src="https://www.scala-lang.org/resources/favicon.ico"></code>](https://www.scala-lang.org/)
-[<code><img alt="Akka" width="26px" src="https://akka.io/resources/favicon.ico"></code>](https://akka.io/)
-[<code><img alt="Play Framework" width="26px" src="https://www.playframework.com/favicon.ico"></code>](https://www.playframework.com/)
-[<code><img alt="Lagom" width="26px" src="https://raw.githubusercontent.com/lagom/lagom/master/docs/theme/src/main/public/images/logos/lagom-icon-full-color.svg"></code>](https://www.lagomframework.com/)
-[<code><img alt="Sbt" width="26px" src="https://www.scala-sbt.org/assets/sbt-logo.svg"></code>](https://www.scala-sbt.org/)
-[<code><img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
-[<code><img alt="Docker" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png"></code>](https://www.docker.com/)
-[<code><img alt="Kubernetes" width="26px" src="https://kubernetes.io/images/favicon.png"></code>](https://kubernetes.io/)
+[<code><img alt="Scala" width="26px" src="/icons/scala.ico"></code>](https://www.scala-lang.org/)
+[<code><img alt="Akka" width="26px" src="/icons/akka.png"></code>](https://akka.io/)
+[<code><img alt="Pekko" width="26px" src="/icons/pekko.png"></code>](https://pekko.apache.org/)
+[<code><img alt="Play Framework" width="26px" src="/icons/play-framework.ico"></code>](https://www.playframework.com/)
+[<code><img alt="Lagom" width="26px" src="/icons/lagom.svg"></code>](https://www.lagomframework.com/)
+[<code><img alt="Sbt" width="26px" src="/icons/sbt.svg"></code>](https://www.scala-sbt.org/)
+[<code><img alt="java" width="26px" src="/icons/java.png"></code>](https://docs.oracle.com/en/java/)
+[<code><img alt="Docker" width="26px" src="/icons/docker.png"></code>](https://www.docker.com/)
+[<code><img alt="Kubernetes" width="26px" src="/icons/kubernetes.png"></code>](https://kubernetes.io/)
 
 ## 🔧 Tools
 
-[<code><img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /></code>](https://www.jetbrains.com/idea/)
-[<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
-[<code><img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></code>](https://github.com/)
-[<code><img alt="Github Actions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"></code>](https://docs.github.com/actions)
+[<code><img alt="Intellij Idea" width="26px" src="/icons/intellij-idea.png" /></code>](https://www.jetbrains.com/idea/)
+[<code><img alt="Git" width="26px" src="/icons/git.png"></code>](https://git-scm.com/)
+[<code><img alt="Github" width="26px" src="/icons/github.png"></code>](https://github.com/)
+[<code><img alt="Github Actions" width="26px" src="/icons/github-actions.png"></code>](https://docs.github.com/actions)
 
 ---
 
